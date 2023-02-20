@@ -49,3 +49,4 @@
 // console.log(sum(arr, 4));
 // console.log(multiply(arr, 4));
 
+// followed with course of OOP
